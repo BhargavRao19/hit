@@ -1,3 +1,7 @@
 hi there i'm here
 hey hey
+<<<<<<< HEAD
 jdnvuebvuev
+=======
+dunn
+>>>>>>> master
